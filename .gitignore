@@ -31,18 +31,6 @@ public/wp-content/plugins/*
 public/wp-content/themes/twentysixteen/*
 public/wp-content/debug.log
 
-
-# wpengine specific
-.smushit-status
-.gitattributes
-_wpeprivate
-public/wp-content/object-cache.php
-public/wp-content/mu-plugins/mu-plugin.php
-public/wp-content/mu-plugins/slt-force-strong-passwords.php
-public/wp-content/mu-plugins/limit-login-attempts
-public/wp-content/mu-plugins/wpengine-common
-public/wp-content/mysql.sql
-
 # wp core (as of 3.4.1)
 public/db-config.php
 public/index.php
